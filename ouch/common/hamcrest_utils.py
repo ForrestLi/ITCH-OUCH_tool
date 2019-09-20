@@ -5,7 +5,7 @@ from hamcrest.core.base_matcher import Matcher, BaseMatcher
 from hamcrest.core.core.described_as import DescribedAs
 from hamcrest.core.helpers.wrap_matcher import wrap_matcher
 from hamcrest import *
-from raptor_utils import fromFixTimeStamp
+
 
 
 class Converted(BaseMatcher):
