@@ -1,0 +1,11 @@
+jinja2
+overrides
+quickfix
+pyhamcrest
+plumbum
+rpyc
+numpy
+scipy
+six
+pytest
+scapy
